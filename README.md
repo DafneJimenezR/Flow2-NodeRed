@@ -55,4 +55,4 @@ A continuación puede verse una vista previa del resultado de este flow.
 -   [Repositorio](https://github.com/DafneJimenezR/Flow2-NodeRed)
 
 ## Créditos
--   [GitHub](https://github.com/hugoescalpelo)ackedit.io/).
+-   [GitHub](https://github.com/hugoescalpelo).
